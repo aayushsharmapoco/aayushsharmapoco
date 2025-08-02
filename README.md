@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm Aayush Sharma
 
-<!--
-**aayushsharmapoco/aayushsharmapoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI Product Manager from Bilaspur | Builder of GenAI tools | Skilled in Python, APIs, Prompt Engineering, Flask & Product 
 
-Here are some ideas to get you started:
+🔧 My Best Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **BizMentor AI** – A real working AI advisor for small shop owners  
+🌐 [Live Demo](#) | 📝 [Case Study](#)
+
+🧠 **AI Career Coach** – GenAI roadmap tool for confused students  
+📝 [Case Study](#)
+
+📄 **MatchWise AI** – Resume + JD Matching Tool for Freshers  
+📝 [Case Study](#)
+
+💬 **MentalEase** – AI-powered mental health chatbot  
+📝 [Case Study](#)
+
+🎓 **ClarifiEd** – Feedback engine for coaching institutes  
+📝 [Case Study](#)
+
+🏪 **Ground Realities** – Research-backed analysis on how AI can help small businesses  
+📝 [Case Study](#)
+
+---
+
+⚒️ Skills
+- Python, Flask, REST APIs, HTML/CSS
+- Prompt Engineering, LangChain, LLMs
+- GenAI Product Design, MVP Planning, AI Metrics
+- GitHub, Render, Notion, Google Sites
+
+---
+
+### 📫 Let’s Connect!
+🔗 [Portfolio](#) | 📧 aayushsharmapoco@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/aayush-sharma-69260a370)
